@@ -20,6 +20,6 @@ pip3 install tweepy
 pip3 install youtube_dl
 git clone https://github.com/ERIS1408/js
 ls
-cd JS
+cd js
 ls
 python3 js.py
